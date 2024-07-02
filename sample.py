@@ -1,7 +1,10 @@
 import pandas
 import numpy
 a=31
-b=81
 
-c=a+b
-print "Sum of two numbers is =" c
+b=32
+
+d=81
+
+c=a+b+d
+print "Sum of three numbers is =" c
