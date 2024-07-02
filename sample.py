@@ -1,7 +1,7 @@
 import pandas
 import numpy
-a=3
-b=8
+a=31
+b=81
 
 c=a+b
 print "Sum of two numbers is =" c
